@@ -1,1 +1,9 @@
-
+Origin: tearingtree's Repo
+Label: tearingtree's Repo
+Suite: stable
+Version: 1.0
+Codename: tearingtrees
+Architectures: iphoneos-arm
+Components: main
+Description: tearingtree's Repo
+MD5Sum:

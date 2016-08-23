@@ -1,1 +1,15 @@
-
+Package: com.tearingtrees.profilewidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tearingtrees <oliviawissig@gmail.com>
+Depends: com.eldwin.iwidgets
+Filename: debs//com.tearingtrees.profilewidget.deb
+Size: <deb in bytes>
+MD5sum: <md5 hash of deb>
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: iWidgets
+Description: A knockoff Android widget
+Author: tearingtrees <oliviawissig@gmail.com>
+Depiction: http://tearingtrees.github.io/depic/com.tearingtrees.profilewidget/index.html
+Name: Profile Widget
