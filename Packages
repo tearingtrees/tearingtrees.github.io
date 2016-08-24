@@ -11,5 +11,5 @@ SHA256: df71b5be6bfeac497b2050773f16154b6ea287151bb4412bea65308df851e28f
 Section: Widgets
 Description: A knockoff Android widget
 Author: tearingtrees <oliviawissig@gmail.com>
-Depiction: http://tearingtrees.github.io/depic/com.tearingtrees.profilewidget/index.html
+Depiction: http://tearingtrees.github.io/depic/?p=com.tearingtrees.profilewidget
 Name: Profile Widget
