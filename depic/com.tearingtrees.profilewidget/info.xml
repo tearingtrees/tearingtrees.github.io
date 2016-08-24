@@ -1,0 +1,23 @@
+<package>
+	<id>com.tearingtrees.profilewidget</id>
+	<name>Profile Widget</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>9.3.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>My first package! I hope you guys enjoy <br> ~ Instructions about widget are in the widget folder (var/mobile/Library/iWidgets) </description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
