@@ -14,12 +14,12 @@ body{
 	src:url(../assets/fonts/Fabrica.otf);
 }
 
-
-#desc, #screenshot{
-	padding:8px;
-	position:center;
-	width:80%;
-	color:white;
+#desc{
+	padding:2.5%;
+	position:absolute; top:30px; left:50%;
+	margin-left:-40%;
+	width:75%;
+	background-color:white;
 	border: solid 1.5px gray;
 	border-radius:6px;
 	z-index:-999;
@@ -38,12 +38,11 @@ body{
 <html>
 <body>
 <center>
+	<div id="padding"></div>
 	<div id="desc">
 		<a id="desctext">This is a widget I made. I was inspired by an android setup, so it wouldn't be surprising if you saw this widget elsewhere.<br> Instructions are included in the widget folder!</a>
-	</div>
-
-	<div id="screenshot">
-		<a href="screenshot.html">Screenshots</a>
+		<br><br>
+		<a id="desctext" href="screenshot.html">Screenshots</a>
 	</div>
 </center>
 </body>
