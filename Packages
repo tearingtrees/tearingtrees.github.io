@@ -5,9 +5,9 @@ Maintainer: tearingtrees <oliviawissig@gmail.com>
 Depends: com.eldwin.iwidgets
 Filename: debs//com.tearingtrees.profilewidget.deb
 Size: 172740
-MD5sum: 2A9C840467D434E7F5C0B187B60228B5
-SHA1: 577CB7EA67E712A2D4A8D9E84A6C5324D5FBF8D5
-SHA256: F0350CA7F20C25B0E8703C65319F97C426E961DBB5255C8F93D54D9D6BAA42D9
+MD5sum: 2a9c840467d434e7f5c0b187b60228b5
+SHA1: 577cb7ea67e712a2d4a8d9e84a6c5324d5fbf8d5
+SHA256: f0350ca7f20c25b0e8703c65319f97c426e961dbb5255c8f93d54d9d6baa42d9
 Section: Widgets
 Description: A knockoff Android widget
 Author: tearingtrees <oliviawissig@gmail.com>
