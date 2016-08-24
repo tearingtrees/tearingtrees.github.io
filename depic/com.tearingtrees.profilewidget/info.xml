@@ -1,23 +1,37 @@
 <package>
 	<id>com.tearingtrees.profilewidget</id>
-	<name>Profile Widget</name>
+	<name>Full Package</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>9.3.3</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
+			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>
+		<package>iwidgets</package>
+	</dependencies>
 	<descriptionlist>
-		<description>My first package! I hope you guys enjoy <br> ~ Instructions about widget are in the widget folder (var/mobile/Library/iWidgets) </description>
+		<description>My first package!</description>
+		<description>~Instructions are located in widget folder (var/mobile/Library/Widgets/)</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots>
+		<screenshot>
+			<description>What it looks like:</description>
+			<image>androidprofile.png</image>
+		</screenshot>			
+	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Initial Release</change>
 	</changelog>
-	<links></links>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/u/tearingtrees</url>
+		</link>
+		
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/tearingtrees</url>
+		</link>		
+	</links>
 </package>

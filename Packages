@@ -9,7 +9,7 @@ MD5sum: f68f0098c79dad2ec53bfba34b4f51e0
 SHA1: a215560b77b3824f50be18064cb048efb04d99d8
 SHA256: df71b5be6bfeac497b2050773f16154b6ea287151bb4412bea65308df851e28f
 Section: Widgets
-Description: A knockoff Android widget
+Description: A sleek-looking information widget
 Author: tearingtrees <oliviawissig@gmail.com>
 Depiction: http://tearingtrees.github.io/depic/index.html?p=com.tearingtrees.profilewidget
 Name: Profile Widget
