@@ -4,10 +4,10 @@ Architecture: iphoneos-arm
 Maintainer: tearingtrees <oliviawissig@gmail.com>
 Depends: com.eldwin.iwidgets
 Filename: debs//com.tearingtrees.profilewidget.deb
-Size: 172706
-MD5sum: 36bfd3706a0d40f27d2f62511f659518
-SHA1: 4166401c88ff8f92f93a76c8c1613c717843a573
-SHA256: 90decb390f13779b1a3fb246cdb909151c80b0ad2ef82a7fd24a40bfcd0f06d6
+Size: 172816
+MD5sum: f68f0098c79dad2ec53bfba34b4f51e0
+SHA1: a215560b77b3824f50be18064cb048efb04d99d8
+SHA256: df71b5be6bfeac497b2050773f16154b6ea287151bb4412bea65308df851e28f
 Section: Widgets
 Description: A knockoff Android widget
 Author: tearingtrees <oliviawissig@gmail.com>
