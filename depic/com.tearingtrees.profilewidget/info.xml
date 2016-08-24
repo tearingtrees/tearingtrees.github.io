@@ -7,15 +7,14 @@
 			<miniOS>7.0</miniOS>
 		</firmware>
 	</compatibility>
-	<dependencies>
-		<package>iwidgets</package>
-	</dependencies>
+	<dependencies></dependencies>
 	<descriptionlist>
 		<description>My first package!</description>
 		<description>~Instructions are located in widget folder (var/mobile/Library/Widgets/)</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
+			<description></description>
 			<image>androidprofile.png</image>
 		</screenshot>			
 	</screenshots>
