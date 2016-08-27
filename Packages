@@ -9,7 +9,23 @@ MD5sum: 3585259a5900825dfa5a377fa540bee9
 SHA1: 88d6ef5b1716aa43e2c351acc2a134161658e2d6
 SHA256: 2e4dfce68707fcb225443ab411aad2f72fac67610a0ef3288af5f0aea223d20c
 Section: Widgets
-Description: A sleek-looking information widget
+Description: tearingtree's 1st widget
 Author: tearingtrees <oliviawissig@gmail.com>
 Depiction: http://tearingtrees.github.io/depic/index.html?p=com.tearingtrees.profilewidget
 Name: Profile Widget
+
+Package: com.tearingtrees.litewidget
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: tearingtrees <oliviawissig@gmail.com>
+Depends: com.eldwin.iwidgets
+Filename: debs//com.tearingtrees.litewidget.deb
+Size: 173136
+MD5sum: 6b75de6e770778ee76e48ff70e69fd54
+SHA1: 0c4abd92a4d172acd800f3b035d40903fd4b7682
+SHA256: 56ce2483eb305e1be62cdc8ee136b565b8d8fe8470d96b0ff0896ffc330e9047
+Section: Widgets
+Description: tearingtree's 2nd widget
+Author: tearingtrees <oliviawissig@gmail.com>
+Depiction: http://tearingtrees.github.io/depic/index.html?p=com.tearingtrees.litewdiget
+Name: Lite Widget

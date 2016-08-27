@@ -1,0 +1,23 @@
+<package>
+	<id>com.tearingtrees.litewidget</id>
+	<name>Full Package</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>~Instructions are located in widget folder (var/mobile/Library/Widgets/)</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>liteprev.png</image>
+		</screenshot>			
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links></links>
+</package>
