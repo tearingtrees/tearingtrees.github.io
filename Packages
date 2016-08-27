@@ -1,13 +1,13 @@
 Package: com.tearingtrees.profilewidget
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: tearingtrees <oliviawissig@gmail.com>
 Depends: com.eldwin.iwidgets
 Filename: debs//com.tearingtrees.profilewidget.deb
-Size: 172754
-MD5sum: 4c0b41251b587d336193791de4154bcc
-SHA1: f5213d247fa7ee65bcc4363284100d5155513d8d
-SHA256: af9444421bd01a60cbd1eed549582e2c514896a8ce1fc3f65fcd3a4d1add46a2
+Size: 173136
+MD5sum: 3585259a5900825dfa5a377fa540bee9
+SHA1: 88d6ef5b1716aa43e2c351acc2a134161658e2d6
+SHA256: 2e4dfce68707fcb225443ab411aad2f72fac67610a0ef3288af5f0aea223d20c
 Section: Widgets
 Description: A sleek-looking information widget
 Author: tearingtrees <oliviawissig@gmail.com>
